@@ -70,6 +70,12 @@ aws s3 ls s3://pokemon-scraper-hadil/images/ --recursive
 - Exemple d’accès public :  
 [https://pokemon-scraper-hadil.s3.eu-north-1.amazonaws.com/images/Generation_II/0152_Chikorita.png](https://pokemon-scraper-hadil.s3.eu-north-1.amazonaws.com/images/Generation_II/0152_Chikorita.png)
 
+[https://pokemon-scraper-hadil.s3.eu-north-1.amazonaws.com/images/Generation_VIII/0851_Centiskorch.png
+
+[https://pokemon-scraper-hadil.s3.eu-north-1.amazonaws.com/images/Generation_V/0496_Servine.png
+
+
+
 ---
 
 ## 🔐 Sécurité
