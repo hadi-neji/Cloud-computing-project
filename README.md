@@ -28,8 +28,8 @@ ssh -i pokemon-key.pem ec2-user@13.61.105.178
 ### 3. Installer Python et Git
 ```bash
 sudo yum update -y
-sudo yum install -y python3 git
-python3 -m pip install --upgrade pip
+sudo yum install -y python3 python3-pip git awscli
+pip3 install requests beautifulsoup4 boto3
 ```
 
 ### 4. Cloner le projet et installer les dépendances
